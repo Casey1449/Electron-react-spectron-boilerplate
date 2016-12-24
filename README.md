@@ -1,2 +1,2 @@
-# git-in-the-game
-App used to track various Github activities. Uses Electron and React.
+# Electron/React/Spectron Boilerplate
+Title says it all. Wired up and ready for deving of the apps.
